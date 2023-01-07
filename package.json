@@ -1,0 +1,22 @@
+{
+  "name": "mig-elgt",
+  "version": "1.0.0",
+  "description": "<!-- **mig-elgt/mig-elgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mig-elgt/mig-elgt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mig-elgt/mig-elgt/issues"
+  },
+  "homepage": "https://github.com/mig-elgt/mig-elgt#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
