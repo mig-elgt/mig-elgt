@@ -18,4 +18,5 @@
   <img alt="VIM" src="https://img.shields.io/badge/--F2F2F2?style=flat-square&logo=vim&logoColor=green" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-F26001?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img alt="gRPC" src="https://img.shields.io/badge/-gRPC-4196A2?style=flat-square&logoColor=white" />
 </p>
