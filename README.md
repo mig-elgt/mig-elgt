@@ -11,7 +11,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/--EBD41B?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-F29100?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/--F29100?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
