@@ -14,4 +14,5 @@
   <img alt="AWS" src="https://img.shields.io/badge/--F29100?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-306289?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
