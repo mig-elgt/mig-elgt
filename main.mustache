@@ -9,7 +9,7 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-3069DD?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-08A6D0?style=flat-square&logo=go&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/---EBD41B?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/--EBD41B?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F29100?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
