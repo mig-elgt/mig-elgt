@@ -1,6 +1,6 @@
 <h1>Hello, folks! 👋</h1>
 
-<p>I'm Miguel Galicia, Software Engineer from Mexico</p>
+<p>I'm Miguel Galicia, Software Engineer from Mexico, living in CDMX.</p>
 
 
 <h3>🔧 Tech Stack</h3>
