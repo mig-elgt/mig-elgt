@@ -1,8 +1,9 @@
 # Hello, folks! 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-My name is Miguel Galicia and I'm a Software Engineer. I'm from Mexico, living as Digital Nomand around the World.
+I'm Miguel Galicia, Software Engineer from Mexico, living as Digital Nomand around the World.
 
-## 🔧 Technologies & Tools
+## 🔧 Tech Stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
