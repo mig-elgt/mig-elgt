@@ -1,1 +1,3 @@
-Hello, I'm Miguel Galicia Kay! 👋, and today is Saturday, 7 January at 17:58 GMT-6
+# Hello, folks! 👋 width="30px" height="30px" />
+
+My name is Miguel Galicia and I'm a Software Engineer. I'm from Mexico, living as Digital Nomand around the World.
